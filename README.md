@@ -7,6 +7,10 @@
 ## General info
 I created this app during the Udemy course React Native - The Practical Guide [2021 Edition]. 
 
+![screen](https://media.discordapp.net/attachments/813878212115300355/845346748544712724/unknown.png?width=337&height=559) ![screen](https://media.discordapp.net/attachments/813878212115300355/845347146739220490/unknown.png?width=339&height=559)
+
+
+
 ## Technologies
 Project is created with:
 * React : 16.8.3

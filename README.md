@@ -25,3 +25,4 @@ To run this project, install it locally using npm:
 $ npm install
 $ npm start
 ```
+##### (To run the application you need to have android emulator and expo installed)
